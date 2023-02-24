@@ -5,5 +5,5 @@
   
 ## Election Audit Results 
 
-![electionresult_img] (https://github.com/kaileyosha/Election_Analysis/blob/b82e9a47edfb5dc0ce9ba73cfe171c3a54be447c/Election_Analysis/electionresult_img.png)
+![electionresult_img] (Election_Analysis/electionresult_img.png)
 
